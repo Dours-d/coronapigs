@@ -1,0 +1,28 @@
+body {background-image: url("https://i.imgur.com/SiaBRz9.png?2");
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-size: cover;
+}
+div.background-image {
+    }
+
+div.transbox {
+  margin: 6px;
+  background-color: #ffccff;
+  border: 3px solid black;
+  opacity: 0.50;
+}
+div.transbox p {
+  margin: 1%;
+  font-weight: bold;
+  color: #000000;
+}
+p {
+  text-align: justify;
+  }
+h1 {text-align: center;
+}
+h2 {text-align: center;
+}
+h4 {text-align: center;
+}
