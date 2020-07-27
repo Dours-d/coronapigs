@@ -11,6 +11,7 @@ body {margin: 0px; background-image: url("https://i.imgur.com/SiaBRz9.png?2");
   height: auto;
   text-align: justify;
   opacity: 0.5;
+  color: rgba(0,0,0,1);
 }
 .p {padding: 20px 20px 20px 20px; font-weight: bolder;
 }
@@ -20,7 +21,6 @@ body {margin: 0px; background-image: url("https://i.imgur.com/SiaBRz9.png?2");
 }
 .h4 {text-align: center; font-size: 15px; font-weight: bolder;
 }
-
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
@@ -32,24 +32,13 @@ body {margin: 0px; background-image: url("https://i.imgur.com/SiaBRz9.png?2");
   float:none;
   grid-template-columns: auto auto auto;
   justify-content: center;
-  padding-right: 20px;
-
+  padding-right: 20px
 }
-
-.item {justify;
-};
-
-.nonefaded {opacity: 1
-};
-
 .margin {margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 0px;
 }
-
-.background {}
-
 div.ex1 {
   font-family: helvetica, arial, sans-serif;
   font-size: 18;
@@ -60,10 +49,9 @@ div.ex1 {
   box-sizing: border-box;
   background-color: rgba(255, 98, 255, 0.5);
 }
-
 div.ex2 {
   font-family: helvetica, arial, sans-serif;
-  font-size: 18;
+  font-size: 19;
   font-weight: bolder;
   width: 315.33px;
   padding: 10px;
